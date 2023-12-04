@@ -30,9 +30,9 @@
 
 # Projects
 
-### Recipe Management API
+### Music Streaming API System
 
-A recipe management REST API is a web service that allows users to manage their recipes by performing operations such as creating, updating, retrieving, and deleting recipes. The Spring Boot framework is a popular choice for building RESTful web services due to its ease of use, robustness, and scalability.
+Developed music streaming API system. This application allows two types of users: Normal and Admin users. The project uses the MVC architecture pattern, which makes the code more readable, modular, and less complex.
 
 **Key Features:**
 - Implemented security measures, including validations, to ensure application safety.
